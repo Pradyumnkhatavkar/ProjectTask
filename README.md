@@ -1,6 +1,8 @@
 # OnlineTweetup
 
-OnlineTweetup is a doctor appointment booking system that streamlines the process of scheduling appointments for medical professionals and patients.
+## Hosted Project
+
+The OnlineTweetup doctor appointment booking system is now hosted on Azure at [onlinetweetup.azurewebsites.net](https://onlinetweetup.azurewebsites.net). Enjoy streamlined appointment scheduling for medical professionals and patients!
 
 ## Description
 
