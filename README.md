@@ -9,10 +9,10 @@ OnlineTweetup simplifies the appointment booking process by providing an intuiti
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/src/main/resources/static/assets/img/Login_page.png)
+![Login Page](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/Screenshot/Login_page.png)
 
 ### Dashboard
-![Dashboard](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/src/main/resources/static/assets/img/Dashboard.png)
+![Dashboard](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/Screenshot/Dashboard.png)
 
 ### Contact Us Page
-![Contact Us Page](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/src/main/resources/static/assets/img/Contact_us_page.png)
+![Contact Us Page](https://github.com/Pradyumnkhatavkar/ProjectTask/blob/main/Screenshot/Contact_us_page.png)
